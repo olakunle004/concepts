@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 10px;
+}
+
+.concepts {
+    box-sizing:  border-box;
+    flex-direction: column;
+    }
+
+
+.col {
+    display: flex;
+    gap: 1rem; 
+    color: blue;
+    border: black 4px solid;
+}
+
+.colon {
+    display: flex;
+    gap: 1rem; 
+    color: blue;
+    border: black 4px solid;
+}
+
+.colomn {
+    display: flex;
+    gap: 1rem; 
+    color: blue;
+    border: black 4px solid;
+}
+
+.column {
+    display: flex;
+    gap: 1rem; 
+    color: blue;
+    border: black 4px solid;
+}
+/* default behaviour */
+.width-auto { width: auto; }
+.width-100 { width: 100% }
+
+.width-auto,
+.width-100 {
+    margin-left:  100px;
+}
+.height-auto {
+    height: auto;
+}
+.height-250 {
+    height: 250px;
+}
+
+
+
